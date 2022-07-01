@@ -1,9 +1,10 @@
+### STOP RIGHT THERE!
 <div>
-  <div width="40%"> <p>Welcome to my profile, I'm passionate about games. </p> </div>
-  <div width="100px"> 
-    # STOP RIGHT THERE!
-    <img src="assets/image-1.jpeg"/> </div>
+  <img hight="50px" src="assets/image-1.jpeg"/> 
 </div>
+
+## Welcome to my profile
+
 
 <br><br>
 
@@ -19,9 +20,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
+<br>
 
-##  Git hub stats!
+## :zap: Git hub stats!
 <div align="center">
   <a href="https://github.com/PedroAugustoPHS">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=PedroAugustoPHS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
