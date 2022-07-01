@@ -9,5 +9,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoPHS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
+  <img height="160em" src="assets/image-1.jpeg"/>
 </div>
 
