@@ -4,7 +4,11 @@
 </div>
 
 ## Welcome to my profile
-
+- :mortar_board: Studing at [UEL](http://portal.uel.br/home) in Brazil.
+- :computer: Java Script Full Stack Developer.
+- :envelope: How to contact me: 
+  - e-mail: guto_phs@hotmail.com
+  - institutional e-mail: pedroaugusto.phs@uel.br
 
 <br><br>
 
@@ -19,8 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-<br>
 
 ## :zap: Git hub stats!
 <div align="center">
