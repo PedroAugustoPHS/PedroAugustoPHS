@@ -1,7 +1,7 @@
 ### STOP RIGHT THERE!
 <div>
-  <div width="50%"> <p>Welcome to my profile, I'm passionate about games. </p> </div>
-  <div width="50%"> <img width="100%" src="assets/image-1.jpeg"/> </div>
+  <div width="40%"> <p>Welcome to my profile, I'm passionate about games. </p> </div>
+  <div width="40%"> <img src="assets/image-1.jpeg"/> </div>
 </div>
 
 <br><br>
