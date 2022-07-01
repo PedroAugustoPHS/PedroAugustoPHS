@@ -12,5 +12,6 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoPHS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div background="">
-  <img width="100%" src="assets/image-2.webp"/>
+  <img width="100%" src="assets/image-3.webp"/>
+
 </dv>
