@@ -1,7 +1,8 @@
-### STOP RIGHT THERE!
 <div>
   <div width="40%"> <p>Welcome to my profile, I'm passionate about games. </p> </div>
-  <div width="40%"> <img src="assets/image-1.jpeg"/> </div>
+  <div width="40%"> 
+    # STOP RIGHT THERE!
+    <img src="assets/image-1.jpeg"/> </div>
 </div>
 
 <br><br>
