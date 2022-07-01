@@ -1,6 +1,6 @@
 <div>
   <div width="40%"> <p>Welcome to my profile, I'm passionate about games. </p> </div>
-  <div width="40%"> 
+  <div width="100px"> 
     # STOP RIGHT THERE!
     <img src="assets/image-1.jpeg"/> </div>
 </div>
