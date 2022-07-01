@@ -18,7 +18,7 @@ About me:
   - Gta V
   - League of Legends
   - Minecraft
-  - Ratchet & Clank
+  - Rust
   - Skyrim
   - The Last of Us
 
