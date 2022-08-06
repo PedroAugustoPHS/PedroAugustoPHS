@@ -1,6 +1,6 @@
 ### STOP RIGHT THERE!
 <div>
-  <img hight="50px" src="assets/image-1.jpeg"/> 
+  <img hight="25px" src="assets/image-1.jpeg"/> 
 </div>
 
 ## Welcome to my profile
