@@ -1,8 +1,3 @@
-### STOP RIGHT THERE!
-<div>
-  <img hight="15px" src="assets/image-1.jpeg"/> 
-</div>
-
 ## Welcome to my profile
 About me:
 - :mortar_board: Studing at [UEL](http://portal.uel.br/home) in Brazil.
