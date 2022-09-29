@@ -16,6 +16,11 @@ About me:
   - Rust
   - Skyrim
   - The Last of Us
+  
+## Why does 99% of the game have spiders?
+<div align="center">
+  <img width="100%" src="assets/aranhas_nos_jogos.png"/>
+</div>
 
 ## 🛠 &nbsp;Tech Stack
 
