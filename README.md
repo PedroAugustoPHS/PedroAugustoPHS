@@ -5,11 +5,6 @@ About me:
 - :envelope: How to contact me: 
   - e-mail: guto_phs@hotmail.com
   - institutional e-mail: pedroaugusto.phs@uel.br
-  
-## Why does 99% of the game have spiders?
-<div align="center">
-  <img width="100%" src="assets/aranhas_nos_jogos.png"/>
-</div>
 
 ## 🛠 &nbsp;Tech Stack
 
