@@ -22,9 +22,3 @@ About me:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-## :zap: Git hub stats!
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=PedroAugustoPHS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoPHS&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
