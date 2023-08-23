@@ -1,6 +1,6 @@
 ## Welcome to my profile
 About me:
-- :mortar_board: Graduated at [UEL](http://portal.uel.br/home) in Brazil.
+- :mortar_board: Bachelor's Degree in Computer Science at [UEL](http://portal.uel.br/home) in Brazil.
 - :computer: Java Script Full Stack Developer.
 - :envelope: How to contact me: 
   - e-mail: guto_phs@hotmail.com
