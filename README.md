@@ -1,7 +1,7 @@
 ## Welcome to my profile
 About me:
 - :mortar_board: Bachelor's Degree in Computer Science at [UEL](http://portal.uel.br/home) in Brazil.
-- :mortar_board: Postgraduate degree in Artificial Intelligence at [UFPR](https://iaa.ufpr.br/), scholarship student.
+- :mortar_board: Postgraduate Degree in Artificial Intelligence at [UFPR](https://iaa.ufpr.br/), scholarship student.
 - :computer: Full Stack Developer, I learn what I want.
 - :envelope: How to contact me: 
   - e-mail: guto_phs@hotmail.com
